@@ -1,0 +1,28 @@
+Command,Description
+ls,is used to list files and directories in a directory.
+cd,is used to change the current directory.
+pwd,is used to print the current working directory.
+mkdir,is used to create a new directory.
+rmdir,is used to remove a directory.
+touch,is used to create a new file.
+rm,is used to remove a file.
+cp,is used to copy files and directories.
+mv,is used to move files and directories.
+cat,is used to display the contents of a file.
+more,is used to display the contents of a file one screen at a time.
+less,is used to display the contents of a file one screen at a time.
+head,is used to display the first few lines of a file.
+tail,is used to display the last few lines of a file.
+grep,is used to search for a specific string in a file.
+wc,is used to count the number of lines - words - and characters in a file.
+sort,is used to sort the lines of a file.
+uniq,is used to remove duplicate lines from a file.
+cut,is used to extract specific columns from a file.
+paste,is used to merge lines from two or more files.
+diff,is used to compare two files.
+tar,is used to create and extract tar archives.
+gzip,is used to compress and decompress files.
+zip,is used to create and extract zip archives.
+find,is used to search for files and directories.
+locate,is used to find files and directories by name.
+which,is used to find the location of a command
